@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlowExample</string>
+    <string name="doSomeWork">Faca Algo</string>
+    <string name="doSomeWork1">Vai 1</string>
+    <string name="doSomeWork2">Vai 2</string>
+    <string name="doSomeWork3">Vai 3</string>
+    <string name="doSomeWork4">Vai 4</string>
+</resources>
